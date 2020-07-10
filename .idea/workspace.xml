@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f82b6f7e-698c-441a-8cfb-602a7970f4d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basicPattern/Interface/Practice/AddressValidator/Adddres/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicPattern/Interface/Practice/AddressValidator/AddressCatagory/CAAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicPattern/Interface/Practice/AddressValidator/AddressCatagory/USAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicPattern/Interface/Practice/AddressValidator/AddressInterface/AddressValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicPattern/Interface/Practice/AddressValidator/AddressValidator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicPattern/Interface/Practice/AddressValidator/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicPattern/Abstract/Employee/AbstractMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicPattern/Abstract/Employee/Consultant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicPattern/Abstract/Employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicPattern/Abstract/Employee/SelsRep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/basicPattern/Interface/Practice/AddressValidator/AddressCatagory/USAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/basicPattern/Interface/Practice/AddressValidator/AddressCatagory/USAddress.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,19 +34,32 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Nikhil_File\Nikhil\DesignPattern\src\basicPattern\Interface\Practice\Search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainApp (1)">
+  <component name="RunManager" selected="Application.AbstractMain">
+    <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicPattern.Abstract.Employee.AbstractMain" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicPattern.Abstract.Employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basicPattern.Interface.Practice.AddressValidator.MainApp" />
       <module name="DesignPattern" />
@@ -61,11 +74,24 @@
       </method>
     </configuration>
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicPattern.Interface.MainApp" />
+      <option name="MAIN_CLASS_NAME" value="basicPattern.Interface.EmployeeSalary.MainApp" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicPattern.Interface.*" />
+          <option name="PATTERN" value="basicPattern.Interface.EmployeeSalary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicPattern.Interface.EmployeeSalary.MainApp" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicPattern.Interface.EmployeeSalary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractMain" />
         <item itemvalue="Application.MainApp (1)" />
         <item itemvalue="Application.MainApp (1)" />
         <item itemvalue="Application.MainApp" />
@@ -111,30 +138,30 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1591034545438">
+    <state x="574" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1594395918167">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="574" y="157" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1591034545438" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1591040829760">
+    <state x="574" y="157" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1594395918167" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1594396721492">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1591040829760" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1591040829760">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1594396721492" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1594396721491">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1591040829760" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1591040829760">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1594396721491" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1594396721491">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1591040829760" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1591040829760">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1594396721491" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1594396721491">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1591040829760" />
-    <state x="465" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1591034254382">
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1594396721491" />
+    <state x="465" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1594394495032">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="465" y="271" key="com.intellij.ide.util.TipDialog/0.30.1536.834@0.30.1536.834" timestamp="1591034254382" />
+    <state x="465" y="271" key="com.intellij.ide.util.TipDialog/0.30.1536.834@0.30.1536.834" timestamp="1594394495032" />
     <state x="462" y="45" width="611" height="804" key="find.popup" timestamp="1591020219063">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
